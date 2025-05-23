@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-macros.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\klicky\\klicky-macros.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-bed-mesh-calibrate.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\klicky\\klicky-bed-mesh-calibrate.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-z-tilt-adjust.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\klicky\\klicky-z-tilt-adjust.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-variables.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\klicky\\klicky-variables.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-specific.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\klicky\\klicky-specific.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\printer.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\printer.cfg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "klicky-z-tilt-adjust.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-z-tilt-adjust.cfg",
+              "RelativeDocumentMoniker": "config\\klicky\\klicky-z-tilt-adjust.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-z-tilt-adjust.cfg",
+              "RelativeToolTip": "config\\klicky\\klicky-z-tilt-adjust.cfg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:20:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "klicky-variables.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-variables.cfg",
+              "RelativeDocumentMoniker": "config\\klicky\\klicky-variables.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-variables.cfg",
+              "RelativeToolTip": "config\\klicky\\klicky-variables.cfg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:20:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "klicky-specific.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-specific.cfg",
+              "RelativeDocumentMoniker": "config\\klicky\\klicky-specific.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-specific.cfg",
+              "RelativeToolTip": "config\\klicky\\klicky-specific.cfg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:20:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "klicky-macros.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-macros.cfg",
+              "RelativeDocumentMoniker": "config\\klicky\\klicky-macros.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-macros.cfg",
+              "RelativeToolTip": "config\\klicky\\klicky-macros.cfg",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAFgAAAA1AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:20:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "klicky-bed-mesh-calibrate.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-bed-mesh-calibrate.cfg",
+              "RelativeDocumentMoniker": "config\\klicky\\klicky-bed-mesh-calibrate.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\klicky\\klicky-bed-mesh-calibrate.cfg",
+              "RelativeToolTip": "config\\klicky\\klicky-bed-mesh-calibrate.cfg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:20:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "printer.cfg",
+              "DocumentMoniker": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\printer.cfg",
+              "RelativeDocumentMoniker": "config\\printer.cfg",
+              "ToolTip": "C:\\Users\\ralfg\\OneDrive\\Projekte\\3D-Drucker-Simon\\config-20250519-201602\\config\\printer.cfg",
+              "RelativeToolTip": "config\\printer.cfg",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFRSURBVDhPnZGxSgNBEIa/kyDYaSF5AztT\u002BAY2s5AiEC7VFZY2BiEhja2ClZAmYpUUVmlEjFXuKSRFilgGBPGwyMkhSXRs3Jicdwn6VbszO/8/s\u002BPwjYioPafhOI6q6p7v\u002Bw8AqP7UiIiuQkS0WCy\u002BisimrcvMOxtjZoIA1Wr1VyyXy231\u002B/1bYB8SnKMo0iAItN1uazwnIhqGoXqeNymVSicAa1bZGIMxhiiK8DyPVqsFQK/Xm7kDuK5LEASZ0Wh0DnMdWOfhcKiDwUCbzaaKiNZqtYUuLHb0jHVPolKpUK/X4\u002BFk4vNalsWZ/4P/kokHSBhp/t7tdhdyqR3sHp8C0Ck/0yk/c3f4FH8CywQshUaWQiPL59s4noJlAu\u002BTCdsHNdbdIwA\u002Bwj8KPF6d8XJ9wfjmEoDS/U78ySJp60rDrtGxAvl8PppOpxsLqivwfd/5AvujM23CmF7QAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-20T16:15:39.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
